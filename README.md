@@ -2,7 +2,7 @@
 - 👀 I’m interested in Networks, Security, Games
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me diep0015@umn.edu
+- 📫 How to reach me tonydiep80@gmail.com
 
 <!---
 diep0015/diep0015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
